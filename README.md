@@ -1,0 +1,4 @@
+MyGo
+====
+
+Go Program pratice
